@@ -1,0 +1,18 @@
+[submodule "Go-Channels"]
+	path = Go-Channels
+	url = git@github.com:DPontes/Go-Channels.git
+[submodule "Go-HTTP_Interface"]
+	path = Go-HTTP_Interface
+	url = git@github.com:DPontes/Go-HTTP_Interface.git
+[submodule "Go-Interfaces"]
+	path = Go-Interfaces
+	url = git@github.com:DPontes/Go-Interfaces.git
+[submodule "Go-Maps"]
+	path = Go-Maps
+	url = git@github.com:DPontes/Go-Maps.git
+[submodule "Go-Cards"]
+	path = Go-Cards
+	url = git@github.com:DPontes/Go-Cards.git
+[submodule "Go-Structs"]
+	path = Go-Structs
+	url = git@github.com:DPontes/Go-Structs.git
